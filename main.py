@@ -4,6 +4,8 @@
 # CreditBankAccount classes
 #########################################################
 
+# A sample comment.  All comments start with #.
+
 # Importing the classes we will use
 # Format is: from <file name without .py> import <class name>
 from BankAccount import BankAccount
