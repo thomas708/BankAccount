@@ -82,3 +82,4 @@ makeWithdrawal(creditAccount, 75)
 # After this point the 3 objects (basicAccount, jointAccount, creditAccount)
 # go out of scope and will be deleted.  Notice the destructor messages for
 # the objects are printed out.
+# Note: Need to run on command line, not IDLE, to see the destructor messages.
